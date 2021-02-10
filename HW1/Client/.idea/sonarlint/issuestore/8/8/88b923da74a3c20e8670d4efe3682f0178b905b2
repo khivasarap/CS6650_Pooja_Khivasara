@@ -1,0 +1,19 @@
+
+^
+java:S1854b"<Remove this useless assignment to local variable "response".(•ÎÇªüÿÿÿÿ8Üî¾êø.
+|
+java:S3008!"_Rename this field "OPEN_WEST_PHASE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØîçÕ8Üî¾êø.
+‚
+java:S3008""`Rename this field "STORE_OPERATION_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŸûûÿÿÿÿ8Üî¾êø.
+]	java:S125G"<This block of commented-out lines of code should be removed.(ñÈÌüÿÿÿÿ8Üî¾êø.
+X	java:S125l"<This block of commented-out lines of code should be removed.(ô‹Î8Üî¾êø.
+^	java:S1074"BConstructor has 12 parameters, which is greater than 7 authorized.(´ô‰ó8Üî¾êø.
+„
+java:S3008 "bRename this field "OPEN_CENTRAL_PHASE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Œôùÿÿÿÿ8Üî¾êø.
+g
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(Ğ¸¡±øÿÿÿÿ8Üî¾êø.
+O
+java:S1481Q"-Remove this unused "response" local variable.(½íà ıÿÿÿÿ8Üî¾êø.
+Q
+java:S3740Q"/Provide the parametrized type for this generic.(½íà ıÿÿÿÿ8Üî¾êø.
+]	java:S125g"<This block of commented-out lines of code should be removed.(ÎÀĞ‡ùÿÿÿÿ8Ÿœ¿êø.

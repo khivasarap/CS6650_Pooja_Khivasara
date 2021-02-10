@@ -1,0 +1,16 @@
+
+€
+java:S3008"`Rename this field "STORE_OPERATION_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŸûûÿÿÿÿ8”ÚËö.
+\	java:S107"BConstructor has 14 parameters, which is greater than 7 authorized.(´ô‰ó8µÍÕËö.
+‚
+java:S3008"bRename this field "OPEN_CENTRAL_PHASE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Œôùÿÿÿÿ8ƒ¯ÕËö.
+F
+java:S1860"&Synchronize on a new "Object" instead.(ü…±÷ùÿÿÿÿ8ßñÊÖö.
+V	java:S125"<This block of commented-out lines of code should be removed.(€ßãğ8ûüÿ×ö.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8ßñÊÖö.
+z
+java:S3008"_Rename this field "OPEN_WEST_PHASE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØîçÕ8ŸòÕËö.
+V	java:S125"<This block of commented-out lines of code should be removed.(ô‹Î8éã€Øö.
+e
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ğ¸¡±øÿÿÿÿ8”ÚËö.
+[	java:S125"<This block of commented-out lines of code should be removed.(ñÈÌüÿÿÿÿ8ùÿ®Îø.
