@@ -1,0 +1,13 @@
+
+S
+java:S2589"7Remove this expression which always evaluates to "true"(Õë¼8»¿¢öø.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¿«èıÿÿÿÿ8”ËÁöø.
+j
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(á„Åşÿÿÿÿ8»¿¢öø.
+O
+java:S1481"2Remove this unused "previousValue" local variable.(ÉËÚ8»¿¢öø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âÙğ’úÿÿÿÿ8»¿¢öø.
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¿«èıÿÿÿÿ8»¿¢öø.
+]	java:S125"<This block of commented-out lines of code should be removed.(åÖå×úÿÿÿÿ8»¿¢öø.
