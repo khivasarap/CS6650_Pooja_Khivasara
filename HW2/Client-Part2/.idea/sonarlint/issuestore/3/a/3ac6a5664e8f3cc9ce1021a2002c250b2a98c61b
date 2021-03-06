@@ -1,0 +1,28 @@
+
+q
+java:S3008"ORename this field "DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¯÷Úøÿÿÿÿ8’‡Øö.
+o
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§î²‡8’‡Øö.
+ƒ
+java:S3008"aRename this field "NUM_PURCHASES_PER_HOUR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÿ¯•ıÿÿÿÿ8’‡Øö.
+v
+java:S3008"TRename this field "FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÅì×üÿÿÿÿ8’‡Øö.
+t
+java:S11920"RDefine a constant instead of duplicating this literal "numberOfCustomers" 3 times.(±”àÕûÿÿÿÿ8’‡Øö.
+g
+java:S11921"JDefine a constant instead of duplicating this literal "maxItemId" 3 times.(ÿ“ûƒ8’‡Øö.
+a
+java:S2147'"DCombine this catch with the one at line 37, which has the same body.(ï­£Ä8¥ó‡Øö.
+‚
+java:S3008"eRename this field "NUM_PURCHASES_PER_PURCHASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¡â™8’‡Øö.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(«³ßûÿÿÿÿ8’‡Øö.
+‚
+java:S3008	"eRename this field "NUM_OF_CUSTOMERS_PER_STORE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ù­ñ8’‡Øö.
+s
+java:S3008
+"VRename this field "MAX_ITEM_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÄ‰’8’‡Øö.
+o
+java:S11922"MDefine a constant instead of duplicating this literal "numPurchases" 3 times.(Úı’ùÿÿÿÿ8’‡Øö.
+{
+java:S11923"YDefine a constant instead of duplicating this literal "numberOfItemsPerPurchase" 5 times.(…ÛÜüÿÿÿÿ8’‡Øö.

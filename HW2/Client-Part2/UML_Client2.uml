@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="74.92916666666667" y="1264.0">PurchaseApiClient</node>
+    <node x="382.5541666666667" y="1437.0">InputProcessing</node>
+    <node x="0.0" y="0.0">Store</node>
+    <node x="149.58749999999998" y="842.0">TimeZone</node>
+    <node x="390.0" y="70.0">InputParameter</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="InputProcessing" target="PurchaseApiClient">
+      <point x="-171.0" y="-172.0" />
+      <point x="439.5541666666667" y="1412.0" />
+      <point x="241.17916666666667" y="1412.0" />
+      <point x="-166.25" y="61.5" />
+    </edge>
+    <edge source="PurchaseApiClient" target="TimeZone">
+      <point x="0.0" y="-61.5" />
+      <point x="407.4291666666667" y="1239.0" />
+      <point x="385.8375" y="1239.0" />
+      <point x="78.75" y="186.0" />
+    </edge>
+    <edge source="TimeZone" target="Store">
+      <point x="-105.0" y="-186.0" />
+      <point x="202.08749999999998" y="822.0" />
+      <point x="185.0" y="822.0" />
+      <point x="0.0" y="396.0" />
+    </edge>
+    <edge source="PurchaseApiClient" target="InputProcessing">
+      <point x="166.25" y="61.5" />
+      <point x="573.6791666666667" y="1412.0" />
+      <point x="553.5541666666667" y="1412.0" />
+      <point x="-57.0" y="-172.0" />
+    </edge>
+    <edge source="TimeZone" target="InputParameter">
+      <point x="105.0" y="-186.0" />
+      <point x="412.0875" y="822.0" />
+      <point x="502.5" y="822.0" />
+      <point x="-75.0" y="326.0" />
+    </edge>
+    <edge source="PurchaseApiClient" target="InputParameter">
+      <point x="221.66666666666663" y="-61.5" />
+      <point x="629.0958333333333" y="1239.0" />
+      <point x="594.5875" y="1239.0" />
+      <point x="594.5875" y="822.0" />
+      <point x="577.5" y="822.0" />
+      <point x="0.0" y="326.0" />
+    </edge>
+    <edge source="InputProcessing" target="InputParameter">
+      <point x="57.0" y="-172.0" />
+      <point x="667.5541666666667" y="1412.0" />
+      <point x="750.4291666666667" y="1412.0" />
+      <point x="750.4291666666667" y="822.0" />
+      <point x="652.5" y="822.0" />
+      <point x="75.0" y="326.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3534361851332398" x="311.5" y="346.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

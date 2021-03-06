@@ -1,0 +1,16 @@
+
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(š¸£ÿÿÿÿÿ8Óï´øÿ.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(í¤àøÿÿÿÿ8Óï´øÿ.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Æ„¸Ğ8‰¯±Ëö.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(‚òôúÿÿÿÿ8‰¯±Ëö.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(—ñŸØ8Óï´øÿ.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(š¥€¤úÿÿÿÿ8Óï´øÿ.
+]
+java:S2184<"@Cast one of the operands of this addition operation to a "long".(ÏƒûÎ8Óï´øÿ.
+W	java:S125"<This block of commented-out lines of code should be removed.(¸¨“C8ŒşòÈö.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ûàîøÿÿÿÿÿ8Óï´øÿ.
+]
+java:S1854<"@Remove this useless assignment to local variable "totalRequest".(ÏƒûÎ8Óï´øÿ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ÌşáÇıÿÿÿÿ8‰¯±Ëö.
+N
+java:S1481<"1Remove this unused "totalRequest" local variable.(ÏƒûÎ8Óï´øÿ.
