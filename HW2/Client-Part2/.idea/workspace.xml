@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Client-Part2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bab7cbb6-6c39-4c2a-a956-d2e2bcd716c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/3/a/3ac6a5664e8f3cc9ce1021a2002c250b2a98c61b" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/3/a/3ac6a5664e8f3cc9ce1021a2002c250b2a98c61b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/5/6/56286bb6363b1e5f10b67d8b6020a1be2be18646" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/5/6/56286bb6363b1e5f10b67d8b6020a1be2be18646" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/6/4/64b1180df8c76cc2dbbccb8dfca6a79ee8f08115" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/6/4/64b1180df8c76cc2dbbccb8dfca6a79ee8f08115" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/8/8/88b923da74a3c20e8670d4efe3682f0178b905b2" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/8/8/88b923da74a3c20e8670d4efe3682f0178b905b2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/b/7/b7daa23286670ca4779f6874b5d2890804532681" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/.idea/sonarlint/issuestore/b/7/b7daa23286670ca4779f6874b5d2890804532681" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client-Part2/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client-Part2/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/3/a/3ac6a5664e8f3cc9ce1021a2002c250b2a98c61b" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/3/a/3ac6a5664e8f3cc9ce1021a2002c250b2a98c61b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/5/6/56286bb6363b1e5f10b67d8b6020a1be2be18646" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/5/6/56286bb6363b1e5f10b67d8b6020a1be2be18646" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/6/4/64b1180df8c76cc2dbbccb8dfca6a79ee8f08115" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/6/4/64b1180df8c76cc2dbbccb8dfca6a79ee8f08115" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/8/8/88b923da74a3c20e8670d4efe3682f0178b905b2" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/8/8/88b923da74a3c20e8670d4efe3682f0178b905b2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/b/7/b7daa23286670ca4779f6874b5d2890804532681" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/.idea/sonarlint/issuestore/b/7/b7daa23286670ca4779f6874b5d2890804532681" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/Client/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/Client/target/classes/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Modak\Desktop\NEU\Term 4- Spring 2021\CS 6650 - Distributed Scalable Systems\CS6650_Pooja_Khivasara\HW1\Client-Part2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nob1smZz9wIpSPETdZENiAu2YZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/Client_Part2_jar/Client-Part2.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3229071" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Modak\Desktop\NEU\Term 4- Spring 2021\CS 6650 - Distributed Scalable Systems\CS6650_Pooja_Khivasara\HW2\Client-Part2\src\main\resources" />
+      <recent name="C:\Users\Modak\Desktop\NEU\Term 4- Spring 2021\CS 6650 - Distributed Scalable Systems\HW1\Client-Part2\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PurchaseApiClient">
+    <configuration name="PurchaseApiClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PurchaseApiClient" />
+      <module name="Client-Part2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Purchase" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Client_Part2_jar/Client-Part2.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Modak\Desktop\NEU\Term 4- Spring 2021\CS 6650 - Distributed Scalable Systems\CS6650_Pooja_Khivasara\HW2\Client-Part2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="Client-Part2" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PurchaseApiClient" />
+      <item itemvalue="JAR Application.Purchase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PurchaseApiClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bab7cbb6-6c39-4c2a-a956-d2e2bcd716c1" name="Default Changelist" comment="" />
+      <created>1612059178214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612059178214</updated>
+      <workItem from="1612059182558" duration="1834000" />
+      <workItem from="1612061958239" duration="5361000" />
+      <workItem from="1612144909033" duration="57243000" />
+      <workItem from="1612293850145" duration="39106000" />
+      <workItem from="1612840201476" duration="8626000" />
+      <workItem from="1612982451983" duration="3496000" />
+      <workItem from="1612998407308" duration="6286000" />
+      <workItem from="1613935930148" duration="14446000" />
+      <workItem from="1614278138689" duration="72901000" />
+      <workItem from="1614891762825" duration="5406000" />
+      <workItem from="1614971526949" duration="13213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="0" width="726" height="728" key="#PurchaseApiClient" timestamp="1612293966026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="0" width="726" height="728" key="#PurchaseApiClient/0.0.1366.728@0.0.1366.728" timestamp="1612293966026" />
+    <state x="329" y="0" width="726" height="728" key="#PurchaseApiExample" timestamp="1612144994885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="0" width="726" height="728" key="#PurchaseApiExample/0.0.1366.728@0.0.1366.728" timestamp="1612144994885" />
+    <state x="137" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614820049037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1614820049037" />
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1612224530924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1612224530924" />
+    <state x="350" y="105" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614819532360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="105" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1614819532360" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612249425337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1612249425337" />
+    <state x="350" y="50" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612211998580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="50" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1612211998580" />
+    <state x="151" y="48" key="FileChooserDialogImpl" timestamp="1614820022885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="151" y="48" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614820022885" />
+    <state width="2505" height="272" key="GridCell.Tab.0.bottom" timestamp="1615000690360">
+      <screen x="-575" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="2505" height="401" key="GridCell.Tab.0.bottom/0.0.1366.728/-2560.-82.2560.1040@-2560.-82.2560.1040" timestamp="1612239011186" />
+    <state width="2505" height="401" key="GridCell.Tab.0.bottom/0.0.1366.728/-524.-1080.2560.1040@-524.-1080.2560.1040" timestamp="1612239273813" />
+    <state width="2505" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728/-575.-1080.2560.1040@-575.-1080.2560.1040" timestamp="1615000690360" />
+    <state width="1311" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728/-575.-1080.2560.1040@0.0.1366.728" timestamp="1614991058074" />
+    <state width="1771" height="338" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-159.1920.1040@1366.-159.1920.1040" timestamp="1612327172277" />
+    <state width="1311" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614986164393" />
+    <state width="2505" height="272" key="GridCell.Tab.0.center" timestamp="1615000690360">
+      <screen x="-575" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="2505" height="401" key="GridCell.Tab.0.center/0.0.1366.728/-2560.-82.2560.1040@-2560.-82.2560.1040" timestamp="1612239011186" />
+    <state width="2505" height="401" key="GridCell.Tab.0.center/0.0.1366.728/-524.-1080.2560.1040@-524.-1080.2560.1040" timestamp="1612239273812" />
+    <state width="2505" height="272" key="GridCell.Tab.0.center/0.0.1366.728/-575.-1080.2560.1040@-575.-1080.2560.1040" timestamp="1615000690360" />
+    <state width="1311" height="272" key="GridCell.Tab.0.center/0.0.1366.728/-575.-1080.2560.1040@0.0.1366.728" timestamp="1614991058074" />
+    <state width="1771" height="338" key="GridCell.Tab.0.center/0.0.1366.728/1366.-159.1920.1040@1366.-159.1920.1040" timestamp="1612327172277" />
+    <state width="1311" height="272" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614986164393" />
+    <state width="2505" height="272" key="GridCell.Tab.0.left" timestamp="1615000690360">
+      <screen x="-575" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="2505" height="401" key="GridCell.Tab.0.left/0.0.1366.728/-2560.-82.2560.1040@-2560.-82.2560.1040" timestamp="1612239011186" />
+    <state width="2505" height="401" key="GridCell.Tab.0.left/0.0.1366.728/-524.-1080.2560.1040@-524.-1080.2560.1040" timestamp="1612239273812" />
+    <state width="2505" height="272" key="GridCell.Tab.0.left/0.0.1366.728/-575.-1080.2560.1040@-575.-1080.2560.1040" timestamp="1615000690360" />
+    <state width="1311" height="272" key="GridCell.Tab.0.left/0.0.1366.728/-575.-1080.2560.1040@0.0.1366.728" timestamp="1614991058074" />
+    <state width="1771" height="338" key="GridCell.Tab.0.left/0.0.1366.728/1366.-159.1920.1040@1366.-159.1920.1040" timestamp="1612327172276" />
+    <state width="1311" height="272" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614986164393" />
+    <state width="2505" height="272" key="GridCell.Tab.0.right" timestamp="1615000690360">
+      <screen x="-575" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="2505" height="401" key="GridCell.Tab.0.right/0.0.1366.728/-2560.-82.2560.1040@-2560.-82.2560.1040" timestamp="1612239011186" />
+    <state width="2505" height="401" key="GridCell.Tab.0.right/0.0.1366.728/-524.-1080.2560.1040@-524.-1080.2560.1040" timestamp="1612239273812" />
+    <state width="2505" height="272" key="GridCell.Tab.0.right/0.0.1366.728/-575.-1080.2560.1040@-575.-1080.2560.1040" timestamp="1615000690360" />
+    <state width="1311" height="272" key="GridCell.Tab.0.right/0.0.1366.728/-575.-1080.2560.1040@0.0.1366.728" timestamp="1614991058074" />
+    <state width="1771" height="338" key="GridCell.Tab.0.right/0.0.1366.728/1366.-159.1920.1040@1366.-159.1920.1040" timestamp="1612327172277" />
+    <state width="1311" height="272" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614986164393" />
+    <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1612208450152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612208450152" />
+    <state width="1311" height="207" key="GridCell.Tab.1.center" timestamp="1612208450151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1612208450151" />
+    <state width="1311" height="207" key="GridCell.Tab.1.left" timestamp="1612208450151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1612208450151" />
+    <state width="1311" height="207" key="GridCell.Tab.1.right" timestamp="1612208450151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1612208450151" />
+    <state x="100" y="0" key="Maven.ArtifactSearchDialog" timestamp="1612146697268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1612146697268" />
+    <state x="456" y="290" key="ReplaceDuplicatesPrompt" timestamp="1612249703191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="290" key="ReplaceDuplicatesPrompt/0.0.1366.728@0.0.1366.728" timestamp="1612249703191" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1614819659302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614819659302" />
+    <state x="294" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1614971527122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="294" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1614971527122" />
+    <state x="210" y="100" width="665" height="619" key="extract.method.dialog" timestamp="1612381441472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="100" width="665" height="619" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1612381441472" />
+    <state x="289" y="23" width="787" height="682" key="find.popup" timestamp="1612125330564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="289" y="23" width="787" height="682" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1612125330564" />
+    <state x="0" y="0" key="new project wizard" timestamp="1613007555998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1613007555998" />
+  </component>
+</project>
