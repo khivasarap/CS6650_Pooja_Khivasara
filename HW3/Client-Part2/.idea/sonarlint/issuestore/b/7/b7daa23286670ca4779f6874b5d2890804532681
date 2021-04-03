@@ -1,0 +1,8 @@
+
+€
+java:S41447"^Update this method so that its implementation is not identical to "beginEastPhase" on line 35.(ÇÊäßüÿÿÿÿ8øÍàÖ…/
+™
+java:S1130#"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Œ‚ƒ±ıÿÿÿÿ8øÍàÖ…/
+]	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(‹ßÒÒ8ŞÀĞ®ö.
+™
+java:S11307"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÇÊäßüÿÿÿÿ8øÍàÖ…/

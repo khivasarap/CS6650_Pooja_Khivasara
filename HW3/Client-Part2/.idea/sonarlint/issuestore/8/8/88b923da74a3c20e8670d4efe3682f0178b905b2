@@ -1,0 +1,23 @@
+
+Q
+java:S3740`"/Provide the parametrized type for this generic.(½íà ýÿÿÿÿ8Ž§­¯…/
+W	java:S125\"<This block of commented-out lines of code should be removed.(¬¨Ãf8Ž§­¯…/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(Þàš¬øÿÿÿÿ8Ž§­¯…/
+f
+java:S2095"HUse try-with-resources or close this "CSVPrinter" in a "finally" clause.(ÀÛÃº8Ž§­¯…/
+X	java:S125S"<This block of commented-out lines of code should be removed.(õ§³ò8Ž§­¯…/
+g
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(Ð¸¡±øÿÿÿÿ8Ž§­¯…/
+X	java:S125~"<This block of commented-out lines of code should be removed.(ô‹Î8Ž§­¯…/
+I
+java:S1860‘"&Synchronize on a new "Object" instead.(ü…±÷ùÿÿÿÿ8Ž§­¯…/
+|
+java:S3008."_Rename this field "OPEN_WEST_PHASE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØîçÕ8Ž§­¯…/
+^	java:S107?"BConstructor has 14 parameters, which is greater than 7 authorized.(´ô‰ó8Ž§­¯…/
+X	java:S125z"<This block of commented-out lines of code should be removed.(€ßãð8Ž§­¯…/
+‚
+java:S3008/"`Rename this field "STORE_OPERATION_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŸžûûÿÿÿÿ8Ž§­¯…/
+„
+java:S3008-"bRename this field "OPEN_CENTRAL_PHASE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Œôùÿÿÿÿ8Ž§­¯…/
+j
+java:S2095œ"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÙŠî8Ž§­¯…/
