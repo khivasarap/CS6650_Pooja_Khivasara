@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="387.91666666666674" y="424.0">Recv</node>
+    <node x="0.0" y="0.0">DataSource</node>
+    <node x="55.25" y="226.0">DAO</node>
+    <node x="317.0" y="69.5">purchaseMicroservice</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="purchaseMicroservice" target="purchaseMicroservice">
+      <point x="-133.75" y="18.5" />
+      <point x="343.75" y="126.5" />
+      <point x="297.0" y="126.5" />
+      <point x="297.0" y="100.33333333333331" />
+      <point x="-160.5" y="12.333333333333314" />
+    </edge>
+    <edge source="DAO" target="DataSource">
+      <point x="-73.25" y="-74.0" />
+      <point x="0.0" y="88.0" />
+    </edge>
+    <edge source="Recv" target="purchaseMicroservice">
+      <point x="0.0" y="-74.0" />
+      <point x="519.4166666666667" y="399.0" />
+      <point x="568.375" y="399.0" />
+      <point x="568.375" y="201.0" />
+      <point x="557.75" y="201.0" />
+      <point x="80.25" y="18.5" />
+    </edge>
+    <edge source="DAO" target="purchaseMicroservice">
+      <point x="73.25" y="-74.0" />
+      <point x="275.0" y="201.0" />
+      <point x="504.25" y="201.0" />
+      <point x="26.75" y="18.5" />
+    </edge>
+    <edge source="Recv" target="DAO">
+      <point x="-87.66666666666669" y="-74.0" />
+      <point x="431.75" y="399.0" />
+      <point x="201.75" y="399.0" />
+      <point x="0.0" y="74.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8526148969889065" x="1028.6988847583643" y="689.5817843866171" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

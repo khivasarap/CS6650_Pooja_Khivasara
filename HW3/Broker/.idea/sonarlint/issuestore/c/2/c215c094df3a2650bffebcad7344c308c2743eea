@@ -1,0 +1,12 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8Å‰¹´‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æĞ8î¡²‡/
+g
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8î¡²‡/
+3
+java:S24385""recv1" is a "Thread".(¤Äàş8Å‰¹´‡/
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8î¡²‡/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(§¥§Üüÿÿÿÿ8î¡²‡/
