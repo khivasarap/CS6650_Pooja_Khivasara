@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="52.625" y="564.0">purchaseMicroservice.Purchase</node>
+    <node x="862.2246376811595" y="1195.5">storeMicroservice.NoItemsFoundException</node>
+    <node x="1153.2246376811595" y="1195.5">storeMicroservice.NoStoreContainsItemException</node>
+    <node x="0.0" y="1916.0">storeMicroservice.PurchaseConsumer</node>
+    <node x="305.2246376811595" y="1070.0">storeMicroservice.ItemObject</node>
+    <node x="987.6693840579711" y="1944.0">storeMicroservice.StoreRPCServer</node>
+    <node x="136.16938405797106" y="1438.0">storeMicroservice.StoreService</node>
+    <node x="347.5" y="2142.0">StoreApplication</node>
+    <node x="110.125" y="1180.5">storeMicroservice.Worker</node>
+    <node x="164.53532608695662" y="0.0">purchaseMicroservice.PurchaseItems</node>
+    <node x="1.125" y="338.0">purchaseMicroservice.PurchaseList</node>
+    <node x="583.2246376811595" y="1098.0">storeMicroservice.StoreObject</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="storeMicroservice.StoreRPCServer" target="storeMicroservice.NoItemsFoundException">
+      <point x="0.0" y="-60.0" />
+      <point x="1110.669384057971" y="1891.0" />
+      <point x="1065.4746376811595" y="1891.0" />
+      <point x="67.75" y="18.5" />
+    </edge>
+    <edge source="storeMicroservice.PurchaseConsumer" target="storeMicroservice.StoreService">
+      <point x="94.25" y="-88.0" />
+      <point x="282.75" y="1891.0" />
+      <point x="220.91938405797106" y="1891.0" />
+      <point x="-254.25" y="214.0" />
+    </edge>
+    <edge source="storeMicroservice.Worker" target="purchaseMicroservice.Purchase">
+      <point x="0.0" y="-33.5" />
+      <point x="175.625" y="1045.0" />
+      <point x="149.0" y="1045.0" />
+      <point x="-32.125" y="228.0" />
+    </edge>
+    <edge source="StoreApplication" target="storeMicroservice.PurchaseConsumer">
+      <point x="-82.875" y="-33.5" />
+      <point x="375.125" y="2117.0" />
+      <point x="188.5" y="2117.0" />
+      <point x="0.0" y="88.0" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="storeMicroservice.NoItemsFoundException">
+      <point x="254.25" y="-214.0" />
+      <point x="729.419384057971" y="1408.0" />
+      <point x="929.9746376811595" y="1408.0" />
+      <point x="-67.75" y="18.5" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="storeMicroservice.ItemObject">
+      <point x="-28.25" y="-214.0" />
+      <point x="446.91938405797106" y="1378.0" />
+      <point x="369.7246376811595" y="1378.0" />
+      <point x="-64.5" y="144.0" />
+    </edge>
+    <edge source="StoreApplication" target="storeMicroservice.StoreService">
+      <point x="27.625" y="-33.5" />
+      <point x="485.625" y="2117.0" />
+      <point x="471.7246376811595" y="2117.0" />
+      <point x="471.7246376811595" y="1891.0" />
+      <point x="559.919384057971" y="1891.0" />
+      <point x="84.75" y="214.0" />
+    </edge>
+    <edge source="storeMicroservice.StoreRPCServer" target="storeMicroservice.NoStoreContainsItemException">
+      <point x="82.0" y="-60.0" />
+      <point x="1192.669384057971" y="1891.0" />
+      <point x="1408.9746376811595" y="1891.0" />
+      <point x="85.25" y="18.5" />
+    </edge>
+    <edge source="StoreApplication" target="storeMicroservice.StoreRPCServer">
+      <point x="82.875" y="-33.5" />
+      <point x="540.875" y="2117.0" />
+      <point x="1110.669384057971" y="2117.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="storeMicroservice.Worker">
+      <point x="-254.25" y="-214.0" />
+      <point x="220.91938405797106" y="1418.0" />
+      <point x="175.625" y="1418.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="storeMicroservice.StoreRPCServer" target="storeMicroservice.StoreService">
+      <point x="-82.0" y="-60.0" />
+      <point x="1028.669384057971" y="1891.0" />
+      <point x="729.419384057971" y="1891.0" />
+      <point x="254.25" y="214.0" />
+    </edge>
+    <edge source="storeMicroservice.Worker" target="storeMicroservice.StoreService">
+      <point x="43.66666666666674" y="33.5" />
+      <point x="219.29166666666674" y="1408.0" />
+      <point x="277.41938405797106" y="1408.0" />
+      <point x="-197.75" y="-214.0" />
+    </edge>
+    <edge source="storeMicroservice.PurchaseConsumer" target="purchaseMicroservice.Purchase">
+      <point x="-94.25" y="-88.0" />
+      <point x="94.25" y="1045.0" />
+      <point x="84.75" y="1045.0" />
+      <point x="-96.375" y="228.0" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="storeMicroservice.NoStoreContainsItemException">
+      <point x="310.75" y="-214.0" />
+      <point x="785.919384057971" y="1418.0" />
+      <point x="1238.4746376811595" y="1418.0" />
+      <point x="-85.25" y="18.5" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="purchaseMicroservice.PurchaseItems">
+      <point x="197.75" y="-214.0" />
+      <point x="672.919384057971" y="1398.0" />
+      <point x="851.7246376811595" y="1398.0" />
+      <point x="851.7246376811595" y="313.0" />
+      <point x="405.3686594202899" y="313.0" />
+      <point x="96.33333333333326" y="144.0" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="storeMicroservice.StoreObject">
+      <point x="141.25" y="-214.0" />
+      <point x="616.419384057971" y="1388.0" />
+      <point x="776.7246376811595" y="1388.0" />
+      <point x="64.5" y="116.0" />
+    </edge>
+    <edge source="purchaseMicroservice.PurchaseList" target="purchaseMicroservice.PurchaseItems">
+      <point x="-90.0" y="-88.0" />
+      <point x="91.125" y="313.0" />
+      <point x="212.70199275362336" y="313.0" />
+      <point x="-96.33333333333326" y="144.0" />
+    </edge>
+    <edge source="purchaseMicroservice.Purchase" target="purchaseMicroservice.PurchaseList">
+      <point x="-64.25" y="-228.0" />
+      <point x="116.875" y="539.0" />
+      <point x="91.125" y="539.0" />
+      <point x="-90.0" y="88.0" />
+    </edge>
+    <edge source="storeMicroservice.StoreService" target="purchaseMicroservice.Purchase">
+      <point x="-84.75" y="-214.0" />
+      <point x="390.41938405797106" y="1388.0" />
+      <point x="262.625" y="1388.0" />
+      <point x="262.625" y="1045.0" />
+      <point x="277.5" y="1045.0" />
+      <point x="96.375" y="228.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="328.5" y="1386.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
