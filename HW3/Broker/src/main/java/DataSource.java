@@ -15,8 +15,6 @@ public class DataSource {
     try {
       config.setDriverClassName("com.mysql.cj.jdbc.Driver");
 //      config.setJdbcUrl( "jdbc:mysql://localhost:3306/databasePooja" );
-//      config.setUsername("root");
-//      config.setPassword("Rakesh@93$");
       config.setJdbcUrl(
           "jdbc:mysql://databasepooja.c8tteeyvfh24.us-east-1.rds.amazonaws.com:3306/databasePooja");
       config.setUsername("admin");
