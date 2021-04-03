@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PurchaseServer:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/PurchaseServer_war</output-path>
+    <root id="archive" name="PurchaseServer_war.war">
+      <element id="artifact" artifact-name="PurchaseServer:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.26" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.6.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,21 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚æÿÿÿÿÿ
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(®÷‚8äõ‚Á†/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëì²ùÿÿÿÿ8‘©°¥‡/
+[
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8Ê£„Á†/
+c
+java:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8äõ‚Á†/
+R
+java:S24468"0"notify" may not wake up the appropriate thread.(ñ”Ğ¹øÿÿÿÿ8Ê£„Á†/
+X	java:S125"<This block of commented-out lines of code should be removed.(¿ÿ±×8‘©°¥‡/
+D
+java:S2189?""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8äõ‚Á†/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Üóñıÿÿÿÿ8äõ‚Á†/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºß¼ä8äõ‚Á†/
+[
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(÷¯‡üÿÿÿÿ8Ê£„Á†/
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(ƒƒÀÍ8‘©°¥‡/
+X	java:S125%"<This block of commented-out lines of code should be removed.(­¡òó8€½ˆÁ†/

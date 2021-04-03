@@ -1,0 +1,28 @@
+
+o
+java:S1450"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
+1
+java:S3626="Remove this redundant jump.(ûÁİ…
+U
+java:S1161-":Add the "@Override" annotation above this method signature(ˆ¿ğ«ùÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÿ›ÅÒ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(˜’‚
+S
+java:S2589h"8Remove this expression which always evaluates to "false"(¤í»ìûÿÿÿÿ
+f
+java:S19895"PHandle the following exception that could be thrown by "getWriter": IOException.(¦‹ÕÍ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¸‰ò
+_
+java:S2147)"DCombine this catch with the one at line 39, which has the same body.(†ëˆçùÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ù–ñùÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(â–«–ûÿÿÿÿ
+O	java:S899Z":Do something with the "boolean" value returned by "offer".(¢ÚÇ“
+O
+java:S4719Z"9Replace charset name argument with StandardCharsets.UTF_8(¢ÚÇ“
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(¯‹²àúÿÿÿÿ
+_
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(†ëˆçùÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(×ëäéùÿÿÿÿ

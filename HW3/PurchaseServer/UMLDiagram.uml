@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="106.66666666666663" y="369.0">ChannelPool</node>
+    <node x="510.66666666666663" y="0.0">PurchaseServlet</node>
+    <node x="480.0" y="618.0">ItemTopNServlet</node>
+    <node x="0.0" y="87.0">ChannelFactory</node>
+    <node x="0.0" y="618.0">ItemStoreServlet</node>
+    <node x="207.0208333333333" y="0.0">ChannelException</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ChannelFactory" target="ChannelException">
+      <point x="0.0" y="-116.0" />
+      <point x="202.0" y="62.0" />
+      <point x="262.27083333333326" y="62.0" />
+      <point x="-55.25" y="18.5" />
+    </edge>
+    <edge source="ChannelPool" target="ChannelFactory">
+      <point x="0.0" y="-102.0" />
+      <point x="286.16666666666663" y="344.0" />
+      <point x="303.0" y="344.0" />
+      <point x="101.0" y="116.0" />
+    </edge>
+    <edge source="ChannelPool" target="ChannelException">
+      <point x="119.66666666666669" y="-102.0" />
+      <point x="405.8333333333333" y="344.0" />
+      <point x="414.5" y="344.0" />
+      <point x="414.5" y="62.0" />
+      <point x="372.77083333333326" y="62.0" />
+      <point x="55.25" y="18.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="660.5" y="387.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

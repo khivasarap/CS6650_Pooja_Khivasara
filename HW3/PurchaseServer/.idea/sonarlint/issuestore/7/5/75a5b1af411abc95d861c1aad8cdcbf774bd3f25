@@ -1,0 +1,23 @@
+
+W	java:S125B"<This block of commented-out lines of code should be removed.(ë’Ò8ı“¿¾†/
+g
+java:S2095$"EUse try-with-resources or close this "Channel" in a "finally" clause.(òŠ°íşÿÿÿÿ8¨¸¼¾†/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚æÿÿÿÿÿ
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜í’ßüÿÿÿÿ8¨¸¼¾†/
+;
+java:S1128"Remove this duplicated import.(éœ½´8¨¸¼¾†/
+W
+java:S1128
+":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ı“¿¾†/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³„÷Œüÿÿÿÿ8¨¸¼¾†/
+J
+java:S1604 "(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8¨¸¼¾†/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(›±¨îùÿÿÿÿ8¨¸¼¾†/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒÉò—8¨¸¼¾†/
+W
+java:S22090"5Change this instance-reference to a static reference.(¸¹›üşÿÿÿÿ8«‹Ù¦‡/
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ëæ–8¨¸¼¾†/
