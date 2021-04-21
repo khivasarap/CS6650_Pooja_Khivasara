@@ -1,0 +1,14 @@
+
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¦‹ÕÍ
+œ
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆ¿ð«ùÿÿÿÿ
+f
+java:S3457-"KFormat specifiers or lambda should be used instead of string concatenation.(ØÞø”ýÿÿÿÿ
+U
+java:S11612":Add the "@Override" annotation above this method signature(ˆ¿ð«ùÿÿÿÿ
+J
+java:S1905#"/Remove this unnecessary cast to "PurchaseList".(ˆ„œËøÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature( —çš
+Q	java:S125$"<This block of commented-out lines of code should be removed.(³Ò·ë
