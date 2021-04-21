@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PurchaseServer:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PurchaseServer_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PurchaseServer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PurchaseServer" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:3.4.5" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.5" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.5" />
+          <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:5.7.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.6" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.23" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.6.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.26" />
+          <element id="library" level="project" name="Maven: org.apache.kafka:kafka-clients:2.7.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

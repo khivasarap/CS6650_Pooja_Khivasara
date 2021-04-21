@@ -1,0 +1,35 @@
+
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(­ÃÃø8û‘ç½†/
+h
+java:S2147"ECombine this catch with the one at line 142, which has the same body.(†ëˆçùÿÿÿÿ8—Óİ½†/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜í’ßüÿÿÿÿ8—Óİ½†/
+n
+java:S3457ƒ"KFormat specifiers or lambda should be used instead of string concatenation.(ØŞø”ıÿÿÿÿ8—Óİ½†/
+m
+java:S1989i"PHandle the following exception that could be thrown by "getWriter": IOException.(¦‹ÕÍ8—Óİ½†/
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(“÷Ôş8—Óİ½†/
+]	java:S1254"<This block of commented-out lines of code should be removed.(˜¨ù‚şÿÿÿÿ8—Óİ½†/
+j
+java:S2095&"HUse try-with-resources or close this "Connection" in a "finally" clause.(·é÷óüÿÿÿÿ8¡­ã½†/
+Q
+java:S1905y"/Remove this unnecessary cast to "PurchaseList".(ˆ„œËøÿÿÿÿ8—Óİ½†/
+^	java:S125–"<This block of commented-out lines of code should be removed.(˜¨ù‚şÿÿÿÿ8îÕÃ€‡/
+8
+java:S3626q"Remove this redundant jump.(ûÁİ…8°ÿ’¿†/
+O
+java:S1135M"2Complete the task associated to this TODO comment.(øúîÃ8—Óİ½†/
+X	java:S125°"<This block of commented-out lines of code should be removed.(´ÒØf8¶úÃ€‡/
+U
+java:S1135§"2Complete the task associated to this TODO comment.(í»íƒùÿÿÿÿ8½ûÚ¿†/
+e
+java:S2095 "HUse try-with-resources or close this "Connection" in a "finally" clause.(—ùã¦8ûÓè·…/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(§¥§Üüÿÿÿÿ8—Óİ½†/
+W
+java:S1161`":Add the "@Override" annotation above this method signature( —çš8—Óİ½†/
+f
+java:S2147-"DCombine this catch with the one at line 43, which has the same body.(†ëˆçùÿÿÿÿ8—Óİ½†/
+X	java:S125z"<This block of commented-out lines of code should be removed.(—Úş×8—Óİ½†/
